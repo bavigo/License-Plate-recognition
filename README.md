@@ -35,7 +35,8 @@ if you are using the linux(ubuntu) distribution follow the steps.
   
   create a file named main.ipynb in vscode jupyter extension
   now copy the code and save the code in that main.ipynb file which is written in test.ipynb
-  ![4](https://user-images.githubusercontent.com/113939046/191105303-2a523ba1-ccf0-407e-84ff-fd37e4df02fc.jpg) download this image and run in your system.
+ ![4](https://user-images.githubusercontent.com/113939046/191108322-cc507e0e-cc94-49dd-9c39-b90be6a9ce3a.jpg)
+ download this image and run in your system.
   
   i am uploading the referral images here for cd imageross-checking at everyphase.
   ![Screenshot (7)](https://user-images.githubusercontent.com/113939046/191106060-b448b1fb-b564-4fc9-ad7b-0fcfb5d7c03a.png) this is grascale image
